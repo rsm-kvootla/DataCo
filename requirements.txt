@@ -5,4 +5,3 @@ streamlit
 matplotlib
 numpy
 seaborn
-itertools
